@@ -1,0 +1,643 @@
+@media (max-width: 1550px) {
+  header .open-menu a {
+    width: 60px;
+    height: 60px;
+    padding: 10px; }
+    header .open-menu a span {
+      height: 12px; }
+
+  header .open-menu a span + span {
+    margin-top: 8px; }
+
+  .home-section .content {
+    padding-bottom: 150px; }
+
+  .home-section .content h1 {
+    font-size: 60px; }
+
+  .home-section .content .sub-title {
+    font-size: 18px;
+    margin-bottom: 40px; }
+
+  .home-section .content ul p {
+    font-size: 18px; }
+
+  .home-section .content ul {
+    margin-bottom: 50px; }
+
+  .btn-default {
+    height: 50px;
+    line-height: 50px;
+    font-size: 17px; }
+
+  .home-section .btn-wrap a + a {
+    margin-top: 25px; }
+
+  .menu-responsive {
+    width: 450px; }
+
+  .menu-responsive .title {
+    font-size: 50px; }
+
+  .menu-responsive .sub-title {
+    font-size: 16px;
+    margin-bottom: 30px; }
+
+  .menu-responsive .title-wrap ul p {
+    font-size: 16px; }
+
+  .home-section .content .wrap {
+    padding: 100px 180px 0 50px; }
+
+  .menu-responsive .mob-menu ul li a {
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px; }
+
+  .menu-responsive .mob-menu ul li {
+    margin-bottom: 15px; }
+
+  footer .logo-wrap .logo {
+    font-size: 38px; }
+
+  footer .address {
+    font-size: 16px; }
+
+  footer .address img {
+    top: 6px; }
+
+  footer .btn-wrap a {
+    height: 50px;
+    line-height: 50px; }
+
+  footer .right {
+    padding-top: 70px; }
+
+  footer .right p {
+    font-size: 16px;
+    margin-bottom: 15px; }
+
+  .form-default .input-wrap input {
+    height: 48px;
+    line-height: 48px; }
+
+  .form-default .input-wrap-button button {
+    height: 48px;
+    line-height: 44px; }
+
+  .form-default .input-wrap-check label:before {
+    width: 32px;
+    height: 32px; }
+
+  .form-default .input-wrap-check input:checked + label:after {
+    width: 22px;
+    height: 22px; }
+
+  .form-default .input-wrap-check input {
+    width: 32px;
+    height: 32px; }
+
+  .form-default .input-wrap-check label {
+    font-size: 16px; }
+    .form-default .input-wrap-check label a {
+      font-size: 16px; }
+
+  footer .footer-menu ul li a {
+    font-size: 16px; }
+
+  .ticket h1 {
+    font-size: 26px;
+    margin-bottom: 20px; }
+
+  .ticket .text-wrap p {
+    font-size: 16px;
+    margin-bottom: 15px; }
+    .ticket .text-wrap p a {
+      font-size: 16px; }
+
+  .ticket .text-wrap p.sub-title {
+    margin-bottom: 15px; }
+
+  .ticket .form-wrap .h2 {
+    font-size: 16px;
+    margin-bottom: 15px; }
+
+  .ticket .form-wrap p {
+    font-size: 16px; }
+
+  .form-default .input-wrap-number input {
+    width: 32px;
+    height: 32px;
+    font-size: 16px; }
+
+  .form-default .input-wrap-check-big label {
+    font-size: 16px;
+    padding-left: 60px; }
+    .form-default .input-wrap-check-big label a {
+      font-size: 16px; }
+
+  .form-default .input-wrap-check-big label:before {
+    width: 45px;
+    height: 35px; }
+
+  .form-default .input-wrap-check-big input:checked + label:after {
+    width: 26px;
+    height: 26px; }
+
+  .program h1 {
+    font-size: 28px; }
+
+  .program .h2 {
+    margin-bottom: 20px;
+    font-size: 22px; }
+
+  .program p {
+    font-size: 16px; }
+
+  .lecture .item-time ul li p {
+    font-size: 18px; }
+
+  .sponsors .wrap-img .img a {
+    height: 100px; }
+
+  .speaker .swiper-slide .text .h2 {
+    font-size: 50px;
+    margin-bottom: 15px; }
+
+  .speaker .swiper-slide .text .h3 {
+    font-size: 24px;
+    margin-bottom: 15px; }
+
+  .speaker .swiper-slide .btn-wrap .h4 {
+    font-size: 20px;
+    margin: 15px 0 10px; }
+
+  .lecture-inner .btn-absolute {
+    margin: 0 0 20px; }
+
+  .lecture-inner .h2 {
+    font-size: 26px; }
+
+  .lecture-inner .h3 {
+    font-size: 20px; }
+
+  .stand .logo-firm .h2 {
+    font-size: 26px; }
+
+  .stand .logo-firm {
+    margin-bottom: 30px; }
+
+  .sponsoring .btn-wrap a {
+    height: 50px;
+    line-height: 46px; }
+
+  .about .h3, .influencer .h3 {
+    font-size: 20px; }
+
+  .input-number .btn-count {
+    width: 32px;
+    height: 32px; }
+
+  .form-default .input-wrap-number label {
+    width: calc(100% - 120px); }
+
+  .input-number {
+    width: 110px; }
+
+  .nice-select {
+    height: 48px;
+    line-height: 48px; } }
+@media (max-width: 1280px) {
+  .content-width {
+    width: 960px; }
+
+  .home-section .content .wrap {
+    padding: 100px 100px 0 50px; }
+
+  .home-section .content {
+    width: 500px; }
+
+  footer .right {
+    width: calc(100% - 350px); }
+
+  footer .footer-menu {
+    width: 120px; }
+
+  footer .form-wrap {
+    width: calc(100% - 150px); }
+
+  header .open-menu {
+    right: 0;
+    top: 20px; }
+
+  .program .h2 {
+    font-size: 20px; }
+
+  .program ul {
+    min-height: 392px; }
+
+  .lecture .item-time {
+    width: calc(100% - 350px); }
+
+  .lecture .item-time ul li p {
+    width: 150px; }
+
+  .lecture .item-time ul li a {
+    width: calc(100% - 170px); }
+
+  .speaker .swiper-button-next:before {
+    left: -93px;
+    top: -10px; }
+
+  .speaker .swiper-button-next {
+    width: 53px;
+    height: 100px;
+    margin-top: -50px;
+    right: -20px; }
+
+  .speaker .swiper-button-prev {
+    width: 53px;
+    height: 100px;
+    margin-top: -50px;
+    left: -20px; }
+    .speaker .swiper-button-prev:before {
+      left: 27px;
+      top: -10px; }
+
+  .lecture-inner .speaker-user .speaker-img {
+    height: 250px; }
+
+  .stand .swiper-button-next {
+    right: -70px; }
+
+  .speaker .swiper-button-prev {
+    left: -70px; }
+
+  .video-section .icon-wrap iframe, .influencer .video-wrap iframe {
+    height: 400px; }
+
+  .video-section .btn-wrap a {
+    width: 300px;
+    height: 50px;
+    line-height: 46px; } }
+@media (max-width: 991px) {
+  .content-width {
+    width: 720px; }
+
+  .home-section .content h1 {
+    font-size: 46px; }
+
+  .home-section .content {
+    width: 445px;
+    padding-bottom: 50px; }
+
+  header .open-menu a {
+    width: 40px;
+    height: 40px;
+    padding: 8px; }
+
+  header .open-menu a span + span {
+    margin-top: 5px; }
+
+  header .open-menu a span {
+    height: 4px; }
+
+  .home-section .content .wrap {
+    padding: 50px 50px 0 50px; }
+
+  .menu-responsive .close-menu a {
+    width: 40px;
+    height: 40px; }
+
+  .menu-responsive .title {
+    font-size: 40px; }
+
+  .menu-responsive .close-menu a span {
+    height: 3px; }
+
+  .menu-responsive .close-menu a span:first-child {
+    top: 14px; }
+
+  .menu-responsive .close-menu a span:last-child {
+    top: 11px; }
+
+  footer .right {
+    width: 100%; }
+
+  .ticket .text-wrap {
+    width: 100%;
+    margin-bottom: 30px; }
+
+  .ticket .form-wrap {
+    width: 100%; }
+
+  .program .item {
+    width: 100%; }
+
+  .program .item + .item {
+    margin-top: 30px; }
+
+  .program ul {
+    min-height: inherit; }
+
+  .program .h6 {
+    min-height: inherit; }
+
+  .lecture .item-time {
+    width: 100%;
+    margin-bottom: 30px; }
+
+  .lecture .user-item {
+    width: 100%; }
+
+  .lecture .user-item figure {
+    height: 350px; }
+
+  .speaker .swiper-slide figure {
+    width: 100%;
+    text-align: center;
+    height: 350px;
+    margin-bottom: 30px; }
+    .speaker .swiper-slide figure img {
+      width: auto;
+      height: 100%;
+      -o-object-fit: contain;
+         object-fit: contain; }
+
+  .speaker .swiper-slide .text {
+    width: 100%;
+    padding: 0 50px; }
+
+  .speaker .swiper-button-next {
+    display: none; }
+
+  .speaker .swiper-button-prev {
+    display: none; }
+
+  .speaker .swiper-pagination {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-top: 20px;
+    position: relative;
+    bottom: -10px; }
+
+  .swiper-pagination-bullet {
+    width: 16px;
+    height: 16px; }
+
+  .lecture-inner .btn-absolute {
+    float: inherit;
+    width: 100%; }
+    .lecture-inner .btn-absolute a {
+      width: 100%; }
+
+  .lecture-inner .speaker-user-wrap {
+    grid-template-columns: repeat(2, 1fr); }
+
+  .stand .speaker-user-wrap {
+    width: 100%;
+    margin-bottom: 30px; }
+
+  .speaker .swiper-slide .btn-wrap {
+    width: 100%; }
+
+  .stand .logo-firm {
+    padding: 0; }
+
+  .video-section .icon-wrap iframe, .influencer .video-wrap iframe {
+    height: 340px; }
+
+  .sponsoring .sponsoring-table .table-row .table-data-1 {
+    width: 100%;
+    margin-bottom: 15px; }
+
+  .sponsoring .sponsoring-table .table-row .table-data-2 {
+    width: calc(100% - 100px); }
+
+  .request-quote .wrap-form .left {
+    width: 100%;
+    padding: 0; }
+
+  .request-quote .wrap-form .right {
+    width: 100%; }
+
+  .request-quote .form-default .input-wrap textarea {
+    border-radius: 20px; }
+
+  .news .news-wrap {
+    grid-template-columns: repeat(1, 1fr); }
+
+  .news .content {
+    width: 500px;
+    max-width: 100%;
+    margin: auto; } }
+@media (max-width: 767px) {
+  .content-width {
+    width: 540px; }
+
+  footer .content-width {
+    position: relative; }
+
+  footer .footer-menu {
+    position: absolute;
+    top: 70px;
+    right: 0; }
+
+  footer .form-wrap {
+    width: 100%; }
+
+  .program h1 {
+    width: 100%; }
+
+  .sponsors .title a {
+    margin-top: 20px; }
+
+  .sponsors .wrap-img {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; }
+
+  .sponsors .wrap-img .img {
+    width: 47%; }
+
+  .speaker .swiper-slide .text .h2 {
+    font-size: 40px; }
+
+  .speaker .swiper-slide figure {
+    height: 300px; }
+
+  .video-section .icon-wrap iframe, .influencer .video-wrap iframe {
+    height: 260px; }
+
+  .video-section .btn-wrap a {
+    width: 100%; }
+
+  .video-section .btn-wrap a + a {
+    margin-top: 15px; }
+
+  .sponsoring .sponsoring-table {
+    margin: 10px 0;
+    padding: 0; }
+
+  .sponsoring .sponsoring-table .table-row .table-data-1 {
+    font-size: 18px; }
+
+  .sponsoring .sponsoring-table .table-row .table-data-3 {
+    font-size: 18px; }
+
+  .about .btn-wrap a {
+    width: 100%; }
+
+  .about .btn-wrap a + a {
+    margin-top: 10px; }
+
+  .about .btn-wrap {
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap; } }
+@media (max-width: 575px) {
+  .content-width {
+    width: 100%;
+    padding: 0 15px; }
+
+  .home-section .content {
+    width: 100%; }
+
+  .home-section .content:after {
+    right: -1000px; }
+
+  header .open-menu {
+    right: 15px; }
+
+  footer .logo-wrap .logo {
+    font-size: 30px; }
+
+  footer .footer-menu {
+    position: relative;
+    top: 0;
+    margin-top: 30px;
+    width: 100%; }
+    footer .footer-menu li {
+      text-align: center; }
+
+  .form-default .input-wrap-check label {
+    padding-left: 45px; }
+
+  footer .right {
+    padding-top: 40px; }
+
+  .ticket, .program {
+    padding: 80px 0; }
+
+  .ticket h1 {
+    font-size: 22px;
+    margin-bottom: 15px; }
+
+  .ticket .content, .program .content {
+    padding: 20px 25px;
+    border-radius: 15px; }
+
+  .pl-15 {
+    padding: 0; }
+
+  .lecture .item-time ul li p {
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-align: center; }
+
+  .lecture .item-time ul li a {
+    width: 100%;
+    padding: 0 2px; }
+
+  .lecture .user-item figure {
+    height: 300px; }
+
+  .sponsors .title a {
+    padding: 0 10px;
+    font-size: 15px; }
+
+  .sponsors .wrap-img .img {
+    width: 100%; }
+    .sponsors .wrap-img .img a {
+      height: 80px; }
+
+  .home-section .content .wrap {
+    text-align: center;
+    width: 100%; }
+
+  .home-section .btn-wrap {
+    max-width: 100%; }
+
+  .speaker .swiper-slide figure {
+    height: 250px; }
+
+  .speaker .swiper-slide .text {
+    padding: 0; }
+
+  .speaker .swiper-slide .text .h2 {
+    font-size: 30px; }
+
+  .speaker .swiper-slide .text .h3 {
+    font-size: 20px; }
+
+  .speaker .btn-wrap a {
+    padding: 0;
+    font-size: 14px; }
+
+  .speaker .swiper-pagination {
+    bottom: 0; }
+
+  .lecture-inner .btn-absolute a {
+    min-width: inherit; }
+
+  .lecture-inner .speaker-user-wrap {
+    grid-template-columns: repeat(1, 1fr); }
+
+  .stand .logo-firm .h2 {
+    width: 100%;
+    margin-top: 20px; }
+
+  .stand .logo-firm {
+    margin-bottom: 15px; }
+
+  .stand .logo-firm .h2 {
+    font-size: 22px; }
+
+  .stand .h6 {
+    font-size: 16px;
+    margin-bottom: 15px; }
+
+  .video-section .icon-wrap iframe, .influencer .video-wrap iframe {
+    height: 200px; }
+
+  .video-section .btn-wrap {
+    margin-top: 40px; }
+
+  .sponsoring .sponsoring-table .table-row .table-data-2 {
+    width: 100%;
+    padding: 0;
+    margin-bottom: 10px; }
+
+  .sponsoring .sponsoring-table .table-row .table-data-3 {
+    width: 100%;
+    text-align: left; }
+
+  .sponsoring .sponsoring-table .table-row {
+    margin-bottom: 25px; }
+
+  .request-quote .input-wrap-submit button, .request-quote .input-wrap-submit input {
+    width: 100%; } }
+@media (max-width: 450px) {
+  .home-section .content .wrap {
+    padding: 50px 10px 0 10px; } }
+
+/*# sourceMappingURL=responsive.css.map */
